@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tarlanfaal
 - 👀 I’m transitioning from Law > Tech
-- 🌱 I’m currently learning Python, JavaScript
+- 🌱 I’m currently learning Python, Java, and JavaScript
 - 💞️ I’m looking to become a Software Engineer
 - 📫 How to reach me: tarlanfaal@yahoo.com
 
