@@ -13,10 +13,7 @@ Java | Spring Boot | SQL | Python | HTML | CSS | JavaScript | Git | Thmyeleaf | 
 ### 🎓 Education:
 
 
-Per Scholas Java Full Stack Development Bootcamp | Bachelor of Business Administration, Univeristy of North Texas
-
-### 👩🏻‍💻 Recent Projects:
-
+Per Scholas Java Full Stack Development Bootcamp | Bachelor of Business Administration, University of North Texas
 
 
 ### 📫 Let’s connect:
