@@ -4,7 +4,7 @@
 ### I am a Full Stack Software Engineer specializing in Java, Python, MySQL, and HTML/CSS
 
 
-Welcome to my profile! It reflects my ongoing exploration into the world of software development. Through my repositories, you’ll find my recent projects. To fellow developers, I hope these tools offer helpful solutions and spark new ideas. I’m always excited to connect, collaborate, and grow alongside others in the tech community. The journey of learning never ends!
+Welcome to my profile! I'm a former teacher passionate about K-12 education. My profile reflects my ongoing exploration into the world of software development. Through my repositories, you’ll find my recent projects. To fellow developers, I hope these tools offer helpful solutions and spark new ideas. I’m always excited to connect, collaborate, and grow alongside others in the tech community. The journey of learning never ends!
 
 ### 🛠️ Languages and tools:
 
